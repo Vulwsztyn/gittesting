@@ -21,5 +21,5 @@ Hello there. Tu się bawcie gitem, żeby ogarnąć.
   2. stwórz nowy branch `git checkout -b moj_ficzer` (zmieniasz tym samym branch, na którym się znajdujesz, aby wrócić do mastera użyj `git checkout master`)
   3. napisz swoje zmiany
   4. dodaj je do staging area przy pomocy `git add folder/moj_plik.txt`
-  5. skomituj `git commit -m "nowa funkcjonalnosc"
+  5. skomituj `git commit -m "nowa funkcjonalnosc"`
   6. stwórz pull request
